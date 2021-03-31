@@ -1,0 +1,11 @@
+{
+    "name": "martinclaver/cours",
+    "description": "project monbedou",
+    "authors": [
+        {
+            "name": "martin claver",
+            "email": "martinclaver2000@gmail.com"
+        }
+    ],
+    "require": {}
+}
